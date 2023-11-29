@@ -12,3 +12,4 @@
 
 # My github link is https://github.com/andrettaj/aj-weather-channel
 
+# Deployed link: https://andrettaj.github.io/aj-weather-channel/
